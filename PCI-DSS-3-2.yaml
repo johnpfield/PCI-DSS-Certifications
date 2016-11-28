@@ -1,0 +1,16 @@
+name: PCI-DSS-3-2
+standards:
+
+  PCI-DSS-Standards:
+    PCI-1: {}
+    PCI-2: {}
+    PCI-3: {}
+    PCI-4: {}
+    PCI-5: {}
+    PCI-6: {}
+    PCI-7: {}
+    PCI-8: {}
+    PCI-9: {}
+    PCI-10: {}
+    PCI-11: {}
+    PCI-12: {}
